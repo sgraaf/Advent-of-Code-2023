@@ -1,0 +1,17 @@
+[tool.ruff]
+select = ["ALL"]
+ignore = [
+    "D",  # pydocstyle
+    "E501",  # line too long, handled by black
+    "COM",  # flake8-commas, handled by black
+    "CPY",  # flake8-copyright
+    "INP",  # flake8-no-pep420
+    "T20",  # flake8-print
+]
+target-version = "py38"  # the minimum Python version supported, used by pyupgrade
+
+[tool.ruff.isort]
+lines-between-types = 0
+
+[tool.ruff.pydocstyle]
+convention = "google"
