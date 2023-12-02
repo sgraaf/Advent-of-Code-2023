@@ -7,3 +7,4 @@ This repository contains my solutions for [Advent of Code 2023](https://adventof
 The solution to each day's puzzle (along with any input) is stored in its own directory:
 
 -   [Day 1: Trebuchet?!](./day01)
+-   [Day 2: Cube Conundrum](./day02)
