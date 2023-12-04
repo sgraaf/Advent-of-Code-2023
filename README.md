@@ -8,3 +8,5 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 
 -   [Day 1: Trebuchet?!](./day01)
 -   [Day 2: Cube Conundrum](./day02)
+-   Day 3: Gear Ratios
+-   [Day 4: Scratchcards](./day04)
