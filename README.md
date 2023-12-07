@@ -12,3 +12,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 -   [Day 4: Scratchcards](./day04)
 -   Day 5: If You Give A Seed A Fertilizer
 -   [Day 6: Wait For It](./day06)
+-   [Day 7: Camel Cards](./day07)
